@@ -1,4 +1,4 @@
 package DataStructure.Stacks;
 
-public class StackOperations {
+public class Stack {
 }

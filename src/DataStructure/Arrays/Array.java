@@ -1,4 +1,4 @@
 package DataStructure.Arrays;
 
-public class ArrayOperations {
+public class Array {
 }
