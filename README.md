@@ -1,11 +1,17 @@
 # Learn Java
 
+---
+
 ## Description
 This project is a collection of **Popular Algorithms and Data Structures** coded in java. 
+
+---
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
+
+---
 
 # Introduction
 This section details the Algorithms and Data Structures in this repo.
@@ -21,6 +27,8 @@ This section details the Algorithms and Data Structures in this repo.
 - MergeSort
 ### Dynamic Programming:
 - Fibonacci
+
+---
 
 ## Installation
 ### 1. Clone the Repository
