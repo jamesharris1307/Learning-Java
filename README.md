@@ -6,9 +6,6 @@ This project is a collection of **Popular Algorithms and Data Structures** coded
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 # Introduction
 This section details the Algorithms and Data Structures in this repo.
