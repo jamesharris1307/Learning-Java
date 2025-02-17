@@ -26,7 +26,9 @@ This section details the Algorithms and Data Structures in this repo.
 - Fibonacci
 
 ## Installation
+### 1. Clone the Repository
 
+Clone this repository to your local machine using Git:
 
-## Contributing
-Guidelines for contributing to the project.
+```bash
+git clone https://github.com/jamesharris1307/Learning-Java.git
